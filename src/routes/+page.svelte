@@ -12,6 +12,8 @@
     Clicks: {count}
 </button>
 
+<span>doubled is {doubled}</span>
+
 <style> 
     h1 {
         color: deepskyblue;
